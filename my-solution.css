@@ -65,3 +65,21 @@
 
 
 
+.ex-8-img {
+    transition: 4s;
+}
+.ex-8-img:hover {
+    filter: grayscale(100%) opacity(50%);
+    border-radius: 40px;
+}
+
+
+
+.ex-9-img {
+    transition: 4s;
+}
+.ex-9-img:hover {
+    filter: grayscale(100%) opacity(50%);
+    border-radius: 40px;
+    transform: scale(1.5);
+}
