@@ -6,3 +6,22 @@
 }
 
 
+
+.ex-2-square {
+    transition: 4s;
+}
+.ex-2-square:active {
+    width: 100%;
+    background-color: cadetblue;
+}
+
+
+
+.ex-3-square {
+    transition: 3s;
+}
+.ex-3-square:hover {
+    border-radius: 100%;
+    background-color: cadetblue;
+}
+
