@@ -25,3 +25,29 @@
     background-color: cadetblue;
 }
 
+
+
+.ex-4-square {
+    transition: 4s;
+    background-color: cadetblue;
+}
+.ex-4-square:hover {
+    opacity: 0;
+}
+
+
+
+.ex-5-square {
+    transition: 1s;
+    background-color: cadetblue;
+}
+.ex-5-square:hover {
+    transform: scale(2.3);
+}
+.ex-5-square:active {
+    transform: scale(1.5);
+}
+
+
+
+
